@@ -1,2 +1,0 @@
-# equidopa-dist
-EQUIDopa calculator
